@@ -1,0 +1,44 @@
+[
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440000",
+    "name": "Ноутбук",
+    "price": 1500,
+    "quantity": 10,
+    "category": "Электроника"
+  },
+  {
+    "id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "name": "Смартфон",
+    "price": 800,
+    "quantity": 10,
+    "category": "Электроника"
+  },
+  {
+    "id": "3f7b2e9d-1a4f-4c8e-b9d6-7c8e3f2a1b0c",
+    "name": "Кофеварка",
+    "price": 120,
+    "quantity": 15,
+    "category": "Бытовая техника"
+  },
+  {
+    "id": "a8b3c7d2-e1f4-4a6b-8c9d-0e1f2a3b4c5d",
+    "name": "Футболка",
+    "price": 25,
+    "quantity": 50,
+    "category": "Одежда"
+  },
+  {
+    "id": "5e6f7a8b-9c0d-1e2f-3a4b-5c6d7e8f9a0b",
+    "name": "Книга",
+    "price": 15,
+    "quantity": 100,
+    "category": "Книги"
+  },
+  {
+    "id": "52c45fc6-0042-48e4-9fbc-81f048534196",
+    "name": "Моторолка",
+    "price": 1500,
+    "quantity": 30,
+    "category": "Электроника"
+  }
+]

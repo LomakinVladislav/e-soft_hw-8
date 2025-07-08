@@ -1,0 +1,25 @@
+{
+  "name": "e-soft_hw-8",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LomakinVladislav/e-soft_hw-8.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LomakinVladislav/e-soft_hw-8/issues"
+  },
+  "homepage": "https://github.com/LomakinVladislav/e-soft_hw-8#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "uuid": "^11.1.0"
+  }
+}
